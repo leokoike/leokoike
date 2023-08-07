@@ -1,7 +1,7 @@
 ### Hi there, I'm Leo! 👋🤓
 
-## I'm a Computer Engineering student and a Back-end developer!
-🔭 I’m currently working on Python projects. I’m also learning more about Python APIs.
+## I'm a Software Engineering and a Back-end developer!
+🔭 I’m currently working on Python and Java projects.
 
 ----
 
