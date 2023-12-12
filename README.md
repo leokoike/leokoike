@@ -6,5 +6,5 @@
 ----
 
 <img align="left" alt="leokoike's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leokoike&count_private=true&show_icons=true&theme=radical" />
-<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leokoike"/>
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leokoike&hide=gherkin"/>
 
